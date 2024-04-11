@@ -9,6 +9,13 @@ lastly we look at projecting where house cost will be over the next 5 years.
 
 First, we limit this to the county of Plano. We then use the model to look at other counties in the Dallas Ft Worth Metropolitan area.
 
+Census Data possible source
+https://www.census.gov/data/developers/data-sets.html
+
+Housing Data possible source
+https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
+
 Brandon Davidson
   9:27 PM
 Keep it simple
