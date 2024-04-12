@@ -15,7 +15,7 @@ https://www.census.gov/data/developers/data-sets.html
 Housing Data possible source
 https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
 
-e
+
 1. The immigration to Dallas based on the housing market and how much the housing market has been affected based on the last ten year and project the growth in the next five years. How many houses there are available compared on the amount of houses needed.
 Housing market. Where is the best place to invest in the Dallas Fort Worth area?
 Limit the amount of counties we use. Amount 3-5 counties
