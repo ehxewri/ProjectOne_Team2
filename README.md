@@ -86,9 +86,13 @@ Speak on how the program can be implemented and scaled up
 
 
 
-Brandon Davidson
-  9:27 PM
-Keep it simple
+Census Data possible source
+https://www.census.gov/data/developers/data-sets.html
+
+Housing Data possible source
+https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
+
 1. The immigration to Dallas based on the housing market and how much the housing market has been affected based on the last ten year and project the growth in the next five years. How many houses there are available compared on the amount of houses needed.
 Housing market. Where is the best place to invest in the Dallas Fort Worth area?
 Limit the amount of counties we use. Amount 3-5 counties
@@ -98,5 +102,3 @@ Over all goal to see where housing cost will be in the next two years.
 Average housing cost over ten years
 Census data for the last ten years ( to show how much the population growth to the housing cost by county) 12 - 24 months.
 Does population growth correlate to housing cost?
-
-We would like to credit Jade Cebeci for inspiring our format for the readme.
