@@ -31,47 +31,79 @@ Going into this project we predicted that there would be a stronger correlation 
  
 With the data we collected we were able to graph out and analyze the trends in the data to show the correlation between HPI, POP, and HI. 
 
-##Insert Graph of all data
 
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
 
 
 
 
 # Housing Trends in DFW 
 
+![alt text](image-2.png)
 ##Collin Graph + brief description
 
+![alt text](image-3.png)
 ##Dallas Graph + brief description
 
+
+![alt text](image-4.png)
 ##Denton Graph + brief description
 
 
 
 # Population trends in DFW
 
+![alt text](image-5.png)
 ##Collin Graph + brief description
 
+![alt text](image-6.png)
 ##Dallas Graph + brief description
 
+![alt text](image-7.png)
 ##Denton Graph + brief description
 
 
 
 # Household Income trends in DFW
 
-
+![alt text](image-8.png)
 ##Collin Graph + brief description
 
+![alt text](image-9.png)
 ##Dallas Graph + brief description
 
+![alt text](image-10.png)
 ##Denton Graph + brief description
 
 
 # Correlations
+![alt text](image-12.png)
+97 Correlation
+
+![alt text](image-13.png)
+97.5 Correlation
+
+![alt text](image-14.png)
+96.2 Correlation
+
 ##HPI & HI correlation graph
   Collin Conclusion
   Dallas Conclusion
   Denton Conclusion
+
+
+![alt text](image-15.png)
+88.8 Correlation
+
+![alt text](image-16.png)
+85.6 Correlation
+
+![alt text](image-17.png)
+89.9 Correlation
 
 ##HPI & POP correlation graph
   Collin Conclusion
@@ -81,9 +113,8 @@ With the data we collected we were able to graph out and analyze the trends in t
 # Recommended Next Steps
 Future prediction of HPI for the next 2 years
 Speak on how the program can be implemented and scaled up
+
 # References
-
-
 
 
 Census Data possible source
@@ -91,14 +122,3 @@ https://www.census.gov/data/developers/data-sets.html
 
 Housing Data possible source
 https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
-
-
-1. The immigration to Dallas based on the housing market and how much the housing market has been affected based on the last ten year and project the growth in the next five years. How many houses there are available compared on the amount of houses needed.
-Housing market. Where is the best place to invest in the Dallas Fort Worth area?
-Limit the amount of counties we use. Amount 3-5 counties
-What is the median house hold income?
-API data on the last 10 years for next two years,
-Over all goal to see where housing cost will be in the next two years.
-Average housing cost over ten years
-Census data for the last ten years ( to show how much the population growth to the housing cost by county) 12 - 24 months.
-Does population growth correlate to housing cost?
