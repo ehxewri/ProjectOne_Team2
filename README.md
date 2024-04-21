@@ -1,7 +1,7 @@
 # ProjectOne_Team2
 House Price Predictor 
 
-A home is essential to modern day living and with rising costs and a struggling economy it has become even harder to find a good place to live. If only there was a tool that could make buying a new home a piece of cake instead of a generational gamble. In this project we will investigatve affordability of housing in the dallas metro area. 
+A home is essential to modern day living and with rising costs and a struggling economy it has become even harder to find a good place to live. If only there was a tool that could make buying a new home a piece of cake instead of a generational gamble. In this project we will investigate affordability of housing in the dallas metro area. 
 The major factors we will use are population, household income, and the housing price index.
 By using all of these factors We will look at the past data from 1997 to present day and document the growth and trends in the housing market. We will also visualize the corrilation of population, income and housing costs.
 Lastly, we will look to project where the housing cost will be over the next 2 years.
@@ -29,7 +29,15 @@ Lastly, we will look to project where the housing cost will be over the next 2 y
 
 Going into this project we predicted that there would be a stronger correlation between household income and the housing price index than the population and the housing price index.
  
-With the data we collected we were able to graph out and analyze the trends in the data to show the correlation between HPI, POP, and HI. 
+With the data we collected we were able to graph out and analyze the trends in the data to show the correlation between HPI, POP, and HI.
+ 
+With the project we looked into the housing market in three local areas in north Texas. The three counties  
+we pulled data for are Collin County, Dallas County, and Denton County. While going through websites we  
+found that our most reliable resource will be FRED (Federal Reserve Economic Data). Our initial  
+hypothesis was there will be a correlation between the Housing Price Index (HPI) and the other two  
+variables, Population Growth (POP) and Household Income (HI). While going through the data we found  
+that the correlation is much higher then we initially thought. 
+
 
 
 ![alt text](image-18.png)
