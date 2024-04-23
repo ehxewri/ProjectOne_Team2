@@ -1,6 +1,18 @@
 # ProjectOne_Team2
 House Price Predictor 
 
+steps
+
+-- run Fred_data.ipynb # required ./resources/list_of_series.csv
+
+-- run Fred_visualize.ipynb to get the data plot by series
+
+-- run Fred_countylist_correlation to get the hpi/hhi and hpi/pop correlation plots
+
+-- run Fred_visualize_normalized to get the normalized plot of hpi/hhi/pop
+
+-- trun Fred_projections to see the initial work done to project housing market. This was not successful. 
+
 A home is essential to modern day living and with rising costs and a struggling economy it has become even harder to find a good place to live. If only there was a tool that could make buying a new home a piece of cake instead of a generational gamble. In this project we will investigate affordability of housing in the dallas metro area. 
 The major factors we will use are population, household income, and the housing price index.
 By using all of these factors We will look at the past data from 1997 to present day and document the growth and trends in the housing market. We will also visualize the corrilation of population, income and housing costs.
