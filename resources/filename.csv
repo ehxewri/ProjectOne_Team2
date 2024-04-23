@@ -1,0 +1,10 @@
+country,state,county,series_Desc,series_id,filename
+United States,TX,Collin,House Price Index,ATNHPIUS48085A,United_States_TX_Collin_House_Price_Index
+United States,TX,Dallas,House Price Index,ATNHPIUS48113A,United_States_TX_Dallas_House_Price_Index
+United States,TX,Denton,House Price Index,ATNHPIUS48121A,United_States_TX_Denton_House_Price_Index
+United States,TX,Collin,Household Income,MHITX48085A052NCEN,United_States_TX_Collin_Household_Income
+United States,TX,Dallas,Household Income,MHITX48113A052NCEN,United_States_TX_Dallas_Household_Income
+United States,TX,Denton,Household Income,MHITX48121A052NCEN,United_States_TX_Denton_Household_Income
+United States,TX,Collin,Resident Population,TXCOLL5POP,United_States_TX_Collin_Resident_Population
+United States,TX,Dallas,Resident Population,TXDALL3POP,United_States_TX_Dallas_Resident_Population
+United States,TX,Denton,Resident Population,TXDENT2POP,United_States_TX_Denton_Resident_Population
